@@ -1,0 +1,9 @@
+..\swowpy\__init__.py
+..\swowpy\__pycache__\__init__.cpython-38.pyc
+..\swowpy\__pycache__\swowpy.cpython-38.pyc
+..\swowpy\swowpy.py
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+requires.txt
+top_level.txt

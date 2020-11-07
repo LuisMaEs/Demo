@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+swowpy/__init__.py
+swowpy/swowpy.py
+swowpy.egg-info/PKG-INFO
+swowpy.egg-info/SOURCES.txt
+swowpy.egg-info/dependency_links.txt
+swowpy.egg-info/requires.txt
+swowpy.egg-info/top_level.txt
